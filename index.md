@@ -19,10 +19,98 @@ The objectives are threefold:
 The workshop targets researchers in control and robotics whose work engages with the modeling, analysis, and control of complex robotic systems, particularly in settings involving physical interaction, uncertainty, hybrid behavior, and learning-enabled components. It is especially relevant for those interested in the foundations of robotics control, the limits of existing frameworks, and the formulation of new problems arising from emerging robotic platforms and technologies.
 
 ## Organizers
-* **Cosimo Della Santina** (TU Delft, NL) - Primary contact 
-* **Kaoru Yamamoto** (Kyushu University, JP) 
-* **Manuel Keppler** (German Aerospace Center - DLR, DE) 
-* **Sylvia Herbert** (University of California San Diego, US) 
+
+<style>
+  .profile-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 2rem;
+  }
+  .profile-card {
+    background: #f9f9f9;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 15px;
+    width: calc(50% - 10px); /* Creates a 2-column grid */
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+  }
+  .profile-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 2px solid #159957; /* Cayman theme green */
+  }
+  .profile-info {
+    display: flex;
+    flex-direction: column;
+  }
+  .profile-info h3 {
+    margin: 0 0 5px 0 !important;
+    font-size: 1.1rem;
+    color: #159957;
+  }
+  .profile-info h4 {
+    margin: 0 0 8px 0 !important;
+    font-size: 0.9rem;
+    color: #606c71;
+    font-style: italic;
+  }
+  .profile-info p {
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+  /* Make it 1 column on smaller screens */
+  @media (max-width: 768px) {
+    .profile-card {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="profile-grid">
+  <div class="profile-card">
+    <img src="assets/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
+    <div class="profile-info">
+      <h3>Cosimo Della Santina</h3>
+      <h4>TU Delft, NL - Primary Contact</h4>
+      <p>Associate Professor in Robotics and Control[cite: 6]. Research on nonlinear control, soft and underactuated robots, and physical interaction[cite: 6, 7]. Email: c.dellasantina@tudelft.nl [cite: 8]</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/kaoru.jpg" alt="Kaoru Yamamoto" class="profile-image">
+    <div class="profile-info">
+      <h3>Kaoru Yamamoto</h3>
+      <h4>Kyushu University, JP</h4>
+      <p>Professor of Control and Robotics[cite: 10]. Research on control of interconnected dynamical systems, distributed control, multi-agent systems, mechanical networks, and passivity-based control[cite: 10, 11].</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/manuel.jpg" alt="Manuel Keppler" class="profile-image">
+    <div class="profile-info">
+      <h3>Manuel Keppler</h3>
+      <h4>German Aerospace Center - DLR, DE</h4>
+      <p>Senior researcher in articulated soft and humanoid robot control, with strong links between theory and large-scale experimental platforms[cite: 13, 14].</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/sylvia.jpg" alt="Sylvia Herbert" class="profile-image">
+    <div class="profile-info">
+      <h3>Sylvia Herbert</h3>
+      <h4>University of California San Diego, US</h4>
+      <p>Assistant Professor working on scalable safety assurances and control policies based on available models and data about the system and environment[cite: 16].</p>
+    </div>
+  </div>
+</div>
 
 ## Tentative Program
 Format: Full-day workshop 
