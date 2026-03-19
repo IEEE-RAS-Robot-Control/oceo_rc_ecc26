@@ -30,10 +30,21 @@ description: "Workshop ECC 2026 - Reykjavík, IEEE CSS"
   }
 </style>
 
-<div class="header-logos">
-  <img src="assets/logos/ecc26.svg" alt="ECC 2026">
-  <img src="assets/logos/robot_control_tc.svg" alt="TC">
+<div id="custom-header-logos" style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 30px;">
+  <img src="assets/logos/ecc26.svg" alt="ECC 2026" style="height: 80px; width: auto; object-fit: contain;">
+  <img src="assets/logos/robot_control_tc.svg" alt="TC" style="height: 80px; width: auto; object-fit: contain;">
 </div>
+
+<script>
+  // This script waits for the page to load, then moves the logos inside the Cayman green header
+  document.addEventListener("DOMContentLoaded", function() {
+    var pageHeader = document.querySelector('.page-header');
+    var logos = document.getElementById('custom-header-logos');
+    if (pageHeader && logos) {
+      pageHeader.appendChild(logos);
+    }
+  });
+</script>
 
 ## About the Workshop
 Robot control has matured into a rich and diverse discipline, yet its intellectual coherence is increasingly strained by fragmentation across paradigms, application domains, and publication venues. Classical problems stability under interaction, modeling uncertainty, underactuation, hybrid dynamics, etc. are often treated as "solved" by practitioners, yet they persistently reappear in modern robotic systems operating in contact-rich, uncertain, and learning-enabled environments. 
