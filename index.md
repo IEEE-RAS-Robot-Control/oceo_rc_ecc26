@@ -111,7 +111,7 @@ The workshop targets researchers in control and robotics whose work engages with
   ### Senior
 
   <div class="profile-card">
-    <img src="assets/alessandro-a.jpg" alt="Alessandro Astolfi" class="profile-image">
+    <img src="assets/speakers/senior/alessandro-a.jpg" alt="Alessandro Astolfi" class="profile-image">
     <div class="profile-info">
       <h3>Alessandro Astolfi</h3>
       <h4>Imperial College London, UK</h4>
@@ -119,7 +119,7 @@ The workshop targets researchers in control and robotics whose work engages with
   </div>
 
   <div class="profile-card">
-    <img src="assets/maria.jpg" alt="Maria Pia Fanti" class="profile-image">
+    <img src="assets/speakers/senior/maria.jpg" alt="Maria Pia Fanti" class="profile-image">
     <div class="profile-info">
       <h3>Maria Pia Fanti</h3>
       <h4>Politecnico di Bari, Italy</h4>
@@ -127,7 +127,7 @@ The workshop targets researchers in control and robotics whose work engages with
   </div>
 
   <div class="profile-card">
-    <img src="assets/melanie.jpg" alt="Melanie Zeilinger" class="profile-image">
+    <img src="assets/speakers/senior/melanie.jpg" alt="Melanie Zeilinger" class="profile-image">
     <div class="profile-info">
       <h3>Melanie Zeilinger</h3>
       <h4>ETH, Switzerland</h4>
@@ -135,7 +135,7 @@ The workshop targets researchers in control and robotics whose work engages with
   </div>
 
   <div class="profile-card">
-    <img src="assets/naira.jpg" alt="Naira Hovakimyan" class="profile-image">
+    <img src="assets/speakers/senior/naira.jpg" alt="Naira Hovakimyan" class="profile-image">
     <div class="profile-info">
       <h3>Naira Hovakimyan</h3>
       <h4>UIUC, USA</h4>
