@@ -144,7 +144,7 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Kaoru Yamamoto</h3>
       <h4>Kyushu University, JP</h4>
-      <p>Professor of Control and Robotics. Research on control of interconnected dynamical systems, distributed control, multi-agent systems, mechanical networks, and passivity-based control.</p>
+      <p>Associate Professor of Control, working on control methodologies that go beyond discrete-time approximations by explicitly accounting for intersample dynamics, alongside research on interconnected dynamical systems.</p>
     </div>
   </div>
 
