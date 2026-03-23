@@ -42,7 +42,7 @@ The workshop targets researchers in control and robotics whose work engages with
 
 ## Invited Speakers
 
-### Early to Mid Career
+<!-- ### Early to Mid Career -->
 <div class="profile-grid">
   <div class="profile-card">
     <img src="assets/speakers/early_mid/laura.jpg" alt="Laura Ferranti" class="profile-image">
@@ -75,10 +75,7 @@ The workshop targets researchers in control and robotics whose work engages with
       <h4>KAIST, South Korea</h4>
     </div>
   </div>
-</div>
-
-### Senior
-<div class="profile-grid">
+  
   <div class="profile-card">
     <img src="assets/speakers/senior/alessandro-a.jpg" alt="Alessandro Astolfi" class="profile-image">
     <div class="profile-info">
