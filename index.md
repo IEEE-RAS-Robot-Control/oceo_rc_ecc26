@@ -60,9 +60,9 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Chiara Gabellieri</h3>
       <h4>University of Twente, Netherlands</h4>
-      <p><strong>Title:</strong> [Insert Title]</p>
-      <p><strong>Abstract:</strong> [Insert Abstract]</p>
-      <p><strong>Bio:</strong> [Insert Bio]</p>
+      <p><strong>Title:</strong> Modeling and Control Challenges in Aerial Robotics</p>
+      <p><strong>Abstract:</strong> Recent advances in aerial robotics are posing new modeling and control challenges. Novel multirotor platforms are being developed to enhance dexterity and efficiency. Driven by the need for efficient aerial transportation, cooperative aerial manipulation using non-stopping flying vehicles has emerged as a promising paradigm. Furthermore, moving beyond straight-cable models, recent research explores aerial robotic manipulation through flexible cables. This talk will present some of the key modeling and control challenges arising from these research directions.</p>
+      <p><strong>Bio:</strong> Chiara Gabellieri is an Assistant Professor in the Robotics and Mechatronics group of the EEMCS faculty at the University of Twente, in the Netherlands. Chiara received her Ph.D. in Information Engineering in 2021 from the University of Pisa. She was an intern at LAAS-CNRS in Toulouse, France, and a visiting Ph.D. student at DLR Institute of Robotics and Mechatronics in Germany. She is a co-applicant in the Dutch NWO-OTP project AVIATOR and local PI in the Marie Skłodowska-Curie Staff Exchange project NEUTRAWEED. She is an Associate Editor for IEEE RA-L and an Editor for the Unmanned Aviation Magazine. She has served as an Associate Editor for ICRA 2021-2026, IROS 2022-2026, and ICUAS 2026. Her research interests include aerial robotic cooperative manipulation and physical interaction.</p>
     </div>
   </div>
 
@@ -93,19 +93,25 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Alessandro Astolfi</h3>
       <h4>Imperial College London, UK</h4>
-      <p><strong>Title:</strong> [Insert Title]</p>
-      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <p><strong>Title:</strong> Control, Estimation, and Adaptation for Pneumatic Soft Continuum Robots</p>
+      <p><strong>Abstract:</strong> 
+      Soft continuum robots are increasingly used in engineering applications, including compliant manufacturing, medical procedures, and disaster rescue. However, their highly uncertain and nonlinear material and structural properties, along with time-varying interactions with the environment, pose significant challenges for control and state estimation.
+      This talk presents recent advances in control, estimation, and adaptation for pneumatic soft continuum robots. We first discuss passivity-based and immersion-and-invariance adaptive control strategies, together with force estimation methods for manipulation tasks. We then address hysteresis, a common source of dynamical uncertainty in soft continuum robots. Both model-based and learning-based approaches for estimating and compensating hysteretic effects are presented, supported by examples.
+      Finally, we introduce adaptive techniques for the locomotion of growing soft continuum robots, including navigation strategies for both planar and three-dimensional environments. <strong>Authors</strong>: A. Astolfi (presenter), and Kaiwen Chen</p>
       <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/senior/mangini.jpg" alt="Mangini" class="profile-image">
+    <img src="assets/speakers/senior/mangini.jpeg" alt="Agostingo Mangini" class="profile-image">
     <div class="profile-info">
-      <h3>Mangini</h3>
-      <h4>[Affiliation TBC]</h4>
-      <p><strong>Title:</strong> [Insert Title]</p>
-      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <h3>Agostingo Mangini</h3>
+      <h4>Politecnico di Bari</h4>
+      <p><strong>Title:</strong> Artificial Intelligence-based Services for Cooperative, Connected and Automated mobility</p>
+      <p><strong>Abstract:</strong> Artificial Intelligence (AI) technologies have the potential to significantly impact automation across a wide range of industries and domains. In urban areas, the number of Cooperative, Connected, and Automated Vehicles (CCAVs) is expected to steadily increase in the near future. As a result, mixed traffic scenarios—comprising both human-driven vehicles and CCAVs—are likely to become the norm in the coming years.
+      Connected and automated vehicles can enhance overall traffic efficiency by preventing collisions, optimizing traffic flow, and enabling the development and deployment of innovative mobility services.
+      This talk will illustrate how AI techniques—such as Deep Reinforcement Learning (DRL)—can support the full integration of CCAVs into real-world traffic systems, for both passenger and freight transportation. The ultimate goal is to deliver benefits to all citizens and generate positive societal impacts, including: i) safety (e.g., reducing road accidents caused by human error); ii) environmental sustainability (e.g., lowering emissions and congestion by smoothing traffic flow and minimizing unnecessary trips); iii) inclusiveness (e.g., ensuring accessible and equitable mobility for all users).
+      The talk will also present recent case studies, implemented both in real-world settings and in simulation environments.</p>
       <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
@@ -139,17 +145,17 @@ The workshop targets researchers in control and robotics whose work engages with
 | Time | Session |
 |------|---------|
 | 08:30–08:45 | Opening and workshop framing (Organisers) |
-| 08:45–09:15 | Session I, Manuel Keppler |
-| 09:15–09:45 | Session I, Chiara Gabellieri |
-| 10:00–10:30 | Coffee break |
-| 10:30–11:00 | Session II, Alessandro Astolfi |
-| 11:00–11:30 | Session II, Laura Ferranti |
-| 11:30–12:00 | Session II, Melanie Zeilinger |
-| 12:00–13:30 | Lunch break |
-| 13:30–14:00 | Session III, Kyoungchul Kong |
-| 14:00–14:30 | Session III, Naira Hovakimyan (remote, or in-person replacement TBC) |
-| 14:30–15:00 | Session III, Mangini (handover from Fanti) |
-| 15:00–15:30 | Coffee break |
+| 08:45–09:15 | Session I, **Manuel Keppler** |
+| 09:15–09:45 | Session I, **Chiara Gabellieri** |
+| 10:00–10:30 | *Coffee break* |
+| 10:30–11:00 | Session II, **Alessandro Astolfi** |
+| 11:00–11:30 | Session II, **Laura Ferranti** |
+| 11:30–12:00 | Session II, **Melanie Zeilinger** |
+| 12:00–13:30 | *Lunch break* |
+| 13:30–14:00 | Session III, **Kyoungchul Kong** |
+| 14:00–14:30 | Session III, **Naira Hovakimyan** (remote, or in-person replacement TBC) |
+| 14:30–15:00 | Session III, **Agostino Marcello Mangini** |
+| 15:00–15:30 | *Coffee break* |
 | 15:30–16:15 | Session IV, Closing panel moderated by Cosimo Della Santina |
 | 16:15–16:25 | Closing remarks |
 
