@@ -98,7 +98,7 @@ The workshop targets researchers in control and robotics whose work engages with
       Soft continuum robots are increasingly used in engineering applications, including compliant manufacturing, medical procedures, and disaster rescue. However, their highly uncertain and nonlinear material and structural properties, along with time-varying interactions with the environment, pose significant challenges for control and state estimation.
       This talk presents recent advances in control, estimation, and adaptation for pneumatic soft continuum robots. We first discuss passivity-based and immersion-and-invariance adaptive control strategies, together with force estimation methods for manipulation tasks. We then address hysteresis, a common source of dynamical uncertainty in soft continuum robots. Both model-based and learning-based approaches for estimating and compensating hysteretic effects are presented, supported by examples.
       Finally, we introduce adaptive techniques for the locomotion of growing soft continuum robots, including navigation strategies for both planar and three-dimensional environments. 
-      <!-- <strong>Authors</strong>: A. Astolfi (presenter), and Kaiwen Chen</p> -->
+      <strong>Authors</strong>: A. Astolfi (presenter), and Kaiwen Chen</p>
       <!-- <p><strong>Bio:</strong> [Insert Bio]</p> -->
     </div>
   </div>
@@ -113,7 +113,7 @@ The workshop targets researchers in control and robotics whose work engages with
       Connected and automated vehicles can enhance overall traffic efficiency by preventing collisions, optimizing traffic flow, and enabling the development and deployment of innovative mobility services.
       This talk will illustrate how AI techniques—such as Deep Reinforcement Learning (DRL)—can support the full integration of CCAVs into real-world traffic systems, for both passenger and freight transportation. The ultimate goal is to deliver benefits to all citizens and generate positive societal impacts, including: i) safety (e.g., reducing road accidents caused by human error); ii) environmental sustainability (e.g., lowering emissions and congestion by smoothing traffic flow and minimizing unnecessary trips); iii) inclusiveness (e.g., ensuring accessible and equitable mobility for all users).
       The talk will also present recent case studies, implemented both in real-world settings and in simulation environments.</p>
-      <!-- <p><strong>Bio:</strong> [Insert Bio]</p> -->
+      <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
 
