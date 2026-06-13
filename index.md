@@ -153,7 +153,7 @@ The workshop targets researchers in control and robotics whose work engages with
 | 11:30–12:00 | Session II, **Melanie Zeilinger** |
 | 12:00–13:30 | *Lunch break* |
 | 13:30–14:00 | Session III, **Kyoungchul Kong** |
-| 14:00–14:30 | Session III, **Naira Hovakimyan** (remote, or in-person replacement TBC) |
+| 14:00–14:30 | Session III, **Naira Hovakimyan** |
 | 14:30–15:00 | Session III, **Agostino Marcello Mangini** |
 | 15:00–15:30 | *Coffee break* |
 | 15:30–16:15 | Session IV, Closing panel moderated by Cosimo Della Santina |
