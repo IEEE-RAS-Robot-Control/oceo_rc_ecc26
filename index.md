@@ -2,8 +2,8 @@
 layout: default
 title: "Open Challenges and Emerging Opportunities<br>in Robot Control"
 description: "ECC 2026 Workshop - Reykjavík, Iceland"
-date: "Tuesday, July 7th 9:00-17:00"
-venue: "To be announced"
+date: "Tuesday, July 7th 08:30-16:25"
+venue: "Uni 5"
 ---
 
 <div id="custom-header-logos" class="custom-header-logos">
@@ -49,6 +49,9 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Laura Ferranti</h3>
       <h4>Delft University of Technology, Netherlands</h4>
+      <p><strong>Title:</strong> [Insert Title]</p>
+      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
 
@@ -57,6 +60,9 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Chiara Gabellieri</h3>
       <h4>University of Twente, Netherlands</h4>
+      <p><strong>Title:</strong> [Insert Title]</p>
+      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
 
@@ -65,6 +71,9 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Manuel Keppler</h3>
       <h4>German Aerospace Center (DLR), Germany</h4>
+      <p><strong>Title:</strong> [Pending Title]</p>
+      <p><strong>Abstract:</strong> [Pending Abstract]</p>
+      <p><strong>Bio:</strong> [Pending Bio]</p>
     </div>
   </div>
 
@@ -73,6 +82,9 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Kyoungchul Kong</h3>
       <h4>KAIST, South Korea</h4>
+      <p><strong>Title:</strong> [Insert Title]</p>
+      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
   
@@ -81,14 +93,20 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Alessandro Astolfi</h3>
       <h4>Imperial College London, UK</h4>
+      <p><strong>Title:</strong> [Insert Title]</p>
+      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/senior/maria.jpg" alt="Maria Pia Fanti" class="profile-image">
+    <img src="assets/speakers/senior/mangini.jpg" alt="Mangini" class="profile-image">
     <div class="profile-info">
-      <h3>Maria Pia Fanti</h3>
-      <h4>Politecnico di Bari, Italy</h4>
+      <h3>Mangini</h3>
+      <h4>[Affiliation TBC]</h4>
+      <p><strong>Title:</strong> [Insert Title]</p>
+      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
 
@@ -97,6 +115,9 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Melanie Zeilinger</h3>
       <h4>ETH, Switzerland</h4>
+      <p><strong>Title:</strong> [Pending Title]</p>
+      <p><strong>Abstract:</strong> [Pending Abstract]</p>
+      <p><strong>Bio:</strong> [Pending Bio]</p>
     </div>
   </div>
 
@@ -105,6 +126,10 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Naira Hovakimyan</h3>
       <h4>UIUC, USA</h4>
+      <p><em>(Attendance: Remote or in-person replacement TBC)</em></p>
+      <p><strong>Title:</strong> [Insert Title]</p>
+      <p><strong>Abstract:</strong> [Insert Abstract]</p>
+      <p><strong>Bio:</strong> [Insert Bio]</p>
     </div>
   </div>
 </div>
@@ -113,15 +138,20 @@ The workshop targets researchers in control and robotics whose work engages with
 
 | Time | Session |
 |------|---------|
-|09:00-09:15|Opening and workshop framing (Organizers)|
-|09:15-10:55| Session I - Invited perspective talks by Melanie Zeilinger, Laura Ferranti, and Chiara Gabellieri|
-|10:55-11:25| Coffee break|
-|11:25-13:05| Session II - Invited perspective talks by Alessandro Astolfi, Manuel Keppler, and Kyoungchul Kong|
-|13:05-14:15| Lunch break 
-|14:15-15:55| Session III - Invited perspective talks by Naira Hovakimyan and Maria Pia Fanti|
-|15:55-16:25| Coffee break|
-|16:25-17:45| Session IV - Panel with all speakers, focused on synthesizing open challenges, questioning implicit assumptions, and identifying shared research directions for robot control|
-|17:45-18:00| Closing remarks|
+| 08:30–08:45 | Opening and workshop framing (Organisers) |
+| 08:45–09:15 | Session I, Manuel Keppler |
+| 09:15–09:45 | Session I, Chiara Gabellieri |
+| 10:00–10:30 | Coffee break |
+| 10:30–11:00 | Session II, Alessandro Astolfi |
+| 11:00–11:30 | Session II, Laura Ferranti |
+| 11:30–12:00 | Session II, Melanie Zeilinger |
+| 12:00–13:30 | Lunch break |
+| 13:30–14:00 | Session III, Kyoungchul Kong |
+| 14:00–14:30 | Session III, Naira Hovakimyan (remote, or in-person replacement TBC) |
+| 14:30–15:00 | Session III, Mangini (handover from Fanti) |
+| 15:00–15:30 | Coffee break |
+| 15:30–16:15 | Session IV, Closing panel moderated by Cosimo Della Santina |
+| 16:15–16:25 | Closing remarks |
 
 
 ## Organizers
