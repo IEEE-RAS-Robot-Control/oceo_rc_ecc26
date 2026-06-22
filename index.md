@@ -104,9 +104,9 @@ The workshop targets researchers in control and robotics whose work engages with
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/senior/mangini.jpeg" alt="Agostingo Mangini" class="profile-image">
+    <img src="assets/speakers/senior/mangini.jpeg" alt="Agostino Mangini" class="profile-image">
     <div class="profile-info">
-      <h3>Agostingo Mangini</h3>
+      <h3>Agostino Mangini</h3>
       <h4>Politecnico di Bari</h4>
       <p><strong>Title:</strong> Artificial Intelligence-based Services for Cooperative, Connected and Automated mobility</p>
       <p><strong>Abstract:</strong> Artificial Intelligence (AI) technologies have the potential to significantly impact automation across a wide range of industries and domains. In urban areas, the number of Cooperative, Connected, and Automated Vehicles (CCAVs) is expected to steadily increase in the near future. As a result, mixed traffic scenarios—comprising both human-driven vehicles and CCAVs—are likely to become the norm in the coming years.
