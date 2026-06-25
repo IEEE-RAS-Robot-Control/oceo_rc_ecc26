@@ -49,9 +49,10 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Laura Ferranti</h3>
       <h4>Delft University of Technology, Netherlands</h4>
-      <!-- <p><strong>Title:</strong> [Insert Title]</p>
-      <p><strong>Abstract:</strong> [Insert Abstract]</p>
-      <p><strong>Bio:</strong> [Insert Bio]</p> -->
+      <p><strong>Title:</strong> Reliable Robot Autonomy under Real-World Uncertainty: Planning, control, and interaction in dynamic environments</p>
+      <p><strong>Abstract:</strong> Robots operating outside controlled settings must make decisions in environments that are dynamic, interactive, and only partially predictable. Uncertainty may arise from the motion of other agents, complex navigation choices, limited onboard computation, traffic rules, faults, unreliable communication, adversarial disturbances, or strategic interaction. These different sources of uncertainty cannot all be handled by a single robustness margin or prediction model.
+      In this talk, I will discuss how real-world uncertainty shapes the design of planning and control architectures for reliable robot autonomy. Through examples from ground, aerial, and maritime robots, I will illustrate how robots can reason about alternative futures, operate safely under limited information, remain effective when communication or components are unreliable, and interact with other decision-makers in dynamic environments. The goal is to highlight future opportunities for control architectures that combine complementary uncertainty representations while remaining safe, computationally feasible, and deployable on real robotic systems.</p>
+      <p><strong>Bio:</strong> Laura Ferranti received her Ph.D. degree in systems and control from Delft University of Technology, The Netherlands, in 2017. She is currently an Associate Professor in the Department of Cognitive Robotics at Delft University of Technology, where she leads the <a href="https://r2clab.com/" target="_blank" rel="noopener noreferrer">Reliable Robot Control Lab</a>. Her research focuses on planning and control for reliable robot autonomy, with an emphasis on optimization-based control, model predictive control, learning, and decision-making under uncertainty. Her work develops computationally efficient methods for robots operating in dynamic and interactive environments, with applications including autonomous vehicles, multi-robot systems, aerial vehicles, and autonomous vessels. Laura was awarded an NWO Veni Grant by the Netherlands Organization for Scientific Research in 2020. Her work has also been selected as a feature paper in Control Engineering Practice and received the Best Paper Award in Multi-Robot Systems at ICRA 2019.</p>
     </div>
   </div>
 
@@ -82,9 +83,13 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Kyoungchul Kong</h3>
       <h4>KAIST, South Korea</h4>
-      <!-- <p><strong>Title:</strong> [Insert Title]</p>
-      <p><strong>Abstract:</strong> [Insert Abstract]</p>
-      <p><strong>Bio:</strong> [Insert Bio]</p> -->
+      <p><strong>Title:</strong> Beyond Physics Simulation: Open Challenges in Human Modeling for Wearable Robot Control</p>
+      <p><strong>Abstract:</strong>    Reinforcement learning has become a dominant paradigm in robot control, yet for wearable robots it exposes a fundamental asymmetry: we can simulate physics with high fidelity, but we cannot simulate people. Numerous efforts have attempted to bridge this gap, from musculoskeletal models and impedance-based human proxies to data-driven motion priors, each revealing a distinct set of failure modes that the community has not yet resolved.
+      This talk examines these attempts and the open questions they leave behind. How much human fidelity does a simulation actually need for a policy to transfer to a real patient? Where should the boundary between hardware-level control and learning-based policy be drawn, and does a more precise physical interaction layer make the human easier to model? What are the minimal sufficient statistics for a human agent in wearable robot RL, and can a single policy generalize across pathologies and rehabilitation stages?
+      These questions are treated not as engineering details but as foundational open problems, examined through the lens of wearable robot development and clinical deployment experience.</p>
+      <p><strong>Bio:</strong> Kyoungchul Kong received the B.Eng. degree (summa cum laude) in mechanical engineering, the B.S. degree in physics, and the M.S. degree in mechanical engineering from Sogang University, Seoul, South Korea, in 2004 and 2006, respectively, and the Ph.D. degree in mechanical engineering from the University of California, Berkeley, Berkeley, CA, USA, in 2009.
+      In 2011, he joined the Department of Mechanical Engineering, Sogang University, as an Assistant Professor. He is currently a Professor with the Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST).
+      He is the Founder and the Chairperson (formerly CEO) of Angel Robotics, a spin-off company for productizing wearable robots. He received the Best Innovation Award from the President of Korea, in 2017, the Commendation by the Minister of Commerce, Industry and Energy, in 2017, the Gold Medals of Cybathlon 2020 and 2024, the KAISTian of the Year, in 2024, and many others.</p>
     </div>
   </div>
   
@@ -106,14 +111,34 @@ The workshop targets researchers in control and robotics whose work engages with
   <div class="profile-card">
     <img src="assets/speakers/senior/mangini.jpeg" alt="Agostino Mangini" class="profile-image">
     <div class="profile-info">
-      <h3>Agostino Mangini</h3>
+      <h3>Agostino Marcello Mangini</h3>
       <h4>Politecnico di Bari</h4>
       <p><strong>Title:</strong> Artificial Intelligence-based Services for Cooperative, Connected and Automated mobility</p>
       <p><strong>Abstract:</strong> Artificial Intelligence (AI) technologies have the potential to significantly impact automation across a wide range of industries and domains. In urban areas, the number of Cooperative, Connected, and Automated Vehicles (CCAVs) is expected to steadily increase in the near future. As a result, mixed traffic scenarios—comprising both human-driven vehicles and CCAVs—are likely to become the norm in the coming years.
       Connected and automated vehicles can enhance overall traffic efficiency by preventing collisions, optimizing traffic flow, and enabling the development and deployment of innovative mobility services.
       This talk will illustrate how AI techniques—such as Deep Reinforcement Learning (DRL)—can support the full integration of CCAVs into real-world traffic systems, for both passenger and freight transportation. The ultimate goal is to deliver benefits to all citizens and generate positive societal impacts, including: i) safety (e.g., reducing road accidents caused by human error); ii) environmental sustainability (e.g., lowering emissions and congestion by smoothing traffic flow and minimizing unnecessary trips); iii) inclusiveness (e.g., ensuring accessible and equitable mobility for all users).
       The talk will also present recent case studies, implemented both in real-world settings and in simulation environments.</p>
-      <!-- <p><strong>Bio:</strong> [Insert Bio]</p> -->
+      <p><strong>Bio:</strong> Agostino Marcello received the
+      degree in electronics engineering and the Ph.D. degree in electrical engineering
+      from the Polytechnic of Bari, Bari, Italy, in 2003 and 2008, respectively. He has been a
+      Visiting Scholar with the University of Zaragoza, Zaragoza, Spain.
+      He is currently Associate Professor with the Department of Electrical and Information
+      Engineering, Polytechnic of Bari. He has authored or coauthored over 180 printed
+      publications.
+      His current research interests include modeling, simulation, control of complex systems,
+      Petri nets, discrete event systems, deep reinforcement learning, supply chains and
+      urban traffic networks, distribution and internal logistics, intelligent transportation
+      systems.
+      Prof. Mangini was on the program committees of the 2007–2026 IEEE International SMC
+      Conference on Systems, Man, and Cybernetics. He was on the Editorial Board of the
+      2017-2024, 2026 IEEE Conference on Automation Science and Engineering. Moreover,
+      he was Publication Chair of the 2017 IEEE SOLI and the 2019 IEEE SMC conferences,
+      Workshop Co-Chair of the 2023 IEEE SMC and 2024 IEEE Telepresence conference,
+      Workshop and Tutorial Chair of the 2023 IEEE CASE conference, Special session Chair
+      of the 3rd IEEE International Conference on Automation in Manufacturing,
+      Transportation and Logistics (iCaMaL2023). Finally, he is Associate Editor of the IEEE
+      Transactions on Automation Science and Engineering and IEEE Systems, Man, and
+      Cybernetics Magazine.</p>
     </div>
   </div>
 
@@ -133,10 +158,41 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Naira Hovakimyan</h3>
       <h4>UIUC, USA</h4>
-      <!-- <p><em>(Attendance: Remote or in-person replacement TBC)</em></p>
-      <p><strong>Title:</strong> [Insert Title]</p>
-      <p><strong>Abstract:</strong> [Insert Abstract]</p>
-      <p><strong>Bio:</strong> [Insert Bio]</p> -->
+      <!-- <p><em>(Attendance: Remote or in-person replacement TBC)</em></p> -->
+      <p><strong>Title:</strong> Ontological Robustness for Certification of Autonomous Systems</p>
+      <p><strong>Abstract:</strong> Learning-based control paradigms have seen many success stories with autonomous
+      systems in recent years. A typical architecture in these systems involves layers for perception,
+      planning and control, wherein each of these layers uses different tools and metrics for assessing
+      robustness and performance. For example, the planners -- that use vision-based sensors to update the
+      navigation and motion planning -- operate largely relying on distributionally robust stochastic
+      optimal control, whereas the low-level controller can be a deterministic controller with its
+      conventional gain and phase (time-delay) margin. We present a new analysis framework for
+      addressing this ontology challenge inherent to autonomous systems. We derive distributional
+      robustness guarantees for deterministic L1 adaptive controllers that can be used by any stochastic
+      planner without facing a language barrier. The combined planner-controller framework can serve as
+      foundation for development of certificates for V&V of learning-enabled systems. An overview of
+      different projects at our lab that build upon this framework will be demonstrated to show different
+      applications.</p>
+      <p><strong>Bio:</strong> Naira Hovakimyan received her MS degree in Applied Mathematics from Yerevan State University
+      in Armenia. She got her Ph.D. in Physics and Mathematics from the Institute of Applied
+      Mathematics of Russian Academy of Sciences in Moscow. She is currently W. Grafton and Lillian
+      B. Wilkins Professor of Mechanical Science and Engineering and the Director of AVIATE Center of
+      UIUC. She has co-authored two books, thirteen patents and more than 500 refereed publications.
+      She is the 2011 recipient of AIAA Mechanics and Control of Flight Award, the 2015 recipient of
+      SWE Achievement Award, the 2017 recipient of IEEE CSS Award for Technical Excellence in
+      Aerospace Controls, and the 2019 recipient of AIAA Pendray Aerospace Literature Award. In 2014
+      she was awarded the Humboldt prize for her lifetime achievements. In 2015 and 2023 she was
+      awarded the UIUC Engineering Council Award for Excellence in Advising. In 2024 she was
+      recognized as the winner of the College Award for Excellence in Translational Research, and in
+      2025 she was recognized for Excellence in Graduate Student Mentoring. She is Fellow of AIAA,
+      IEEE, ASME, IFAC, and senior member of National Academy of Inventors. She has been named a
+      Distinguished Lecturer for IEEE CSS for 2026-2028. She is a co-founder and chief scientist of
+      Intelinair. Her work in robotics for elderly care was featured in the New York Times, on Fox TV,
+      CNBC, and her recent NASA ULI award on flying cars led her to a live interview on Cheddar
+      Innovates and many other media platforms. Her research interests are in control and optimization,
+      autonomous systems, machine learning, neural networks, game theory, and their applications in
+      aerospace, robotics, mechanical, agricultural, electrical, petroleum, biomedical engineering, and
+      elderly care.</p>
     </div>
   </div>
 </div>
