@@ -149,9 +149,10 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Melanie Zeilinger</h3>
       <h4>ETH, Switzerland</h4>
-      <!-- <p><strong>Title:</strong> [Pending Title]</p>
-      <p><strong>Abstract:</strong> [Pending Abstract]</p>
-      <p><strong>Bio:</strong> [Pending Bio]</p> -->
+      <p><strong>Title:</strong> Safe Learning-Based Control for Robotics: On Constraints, Physics, and Exploration</p>
+      <p><strong>Abstract:</strong> Modern machine learning paradigms—ranging from reinforcement learning to generative frameworks like diffusion models—have shown immense promise in advancing robotic capabilities. By leveraging vast datasets, these models enable robots to acquire complex behaviors and adapt to diverse environments. However, a significant gap remains between standard machine learning capabilities and the stringent demands of real-world deployment; existing techniques struggle to respect strict safety and physical constraints, and are commonly restricted to offline training.
+      To address these challenges, recent research has turned to safety filters, robust and stochastic control, and optimization-based techniques. This talk discusses the open problems that remain in this domain. Specifically, we highlight our recent work toward constraint-aware and optimization-guided diffusion models, as well as online, active learning frameworks utilizing Gaussian Process dynamics models.</p>
+      <p><strong>Bio:</strong> Melanie Zeilinger is an Associate Professor at the Department of Mechanical and Process Engineering at ETH Zurich, where she is leading the Intelligent Control Systems. She received the diploma in Engineering Cybernetics from the University of Stuttgart in Germany in 2006 and the Ph.D. degree in Electrical Engineering from ETH Zurich in 2011. From 2011 to 2012 she was a postdoctoral fellow at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. From 2012 to 2015 she was a Postdoctoral Researcher and Marie Curie fellow in a joint program with the University of California at Berkeley, USA, and the Max Planck Institute for Intelligent Systems in Tuebingen, Germany. From 2018 to 2019 she was a professor at the University of Freiburg, Germany. Her awards include the ETH medal for her PhD thesis, an SNF Professorship, the Golden Owl for exceptional teaching at ETH Zurich 2022 and the European Control Award 2023. Her research interests include learning-based control with applications to robotics and biomedical systems.</p>
     </div>
   </div>
 
